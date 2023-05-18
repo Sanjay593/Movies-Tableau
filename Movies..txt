@@ -1,0 +1,36 @@
+                                                Movies Dashboard
+
+Using movies data for the Tableau visualization
+
+Prject Link - https://public.tableau.com/app/profile/sanjay.dass/viz/Movies_16413818359360/Dashboard1?publish=yes
+              
+1.  Avg Gross sheet Measure name and Director name in Filter (Measure name in Colomun).
+    
+     In Text mark we Avg Imdb score, Avg gross, Avg Duration, Cnt of movies (as per Director (Steven Spielberg)).
+
+2.  Movies by duration & Gross Revenue Sheet Using Avg gross in Column and Avg duration in rows.
+     Scatter Plot chart.
+     Director name in filter (as per Director (Steven Spielberg)).
+     Avg IMDB rating in color.
+     Movie Title in Detail.
+
+3.  No. Of movies sheet first we put title year into coloumn measure name and cnt movie in row measure value.
+     Line Chart
+     Director name in filter (as per Director (Steven Spielberg)).
+
+4   Genre Revenue sheet Tree Map Chart
+     Avg IMDB, Sum of Gross, Director name in filter (as per Director (Steven Spielberg)).
+     Sum Gross in colors marks.
+     Sum IMDB in size marks.
+     Genre Split 1 in Text marks.
+
+5.  Favourite Actor Sheet
+     Director name in filter (as per Director (Steven Spielberg)).
+     Sum Gross in Coloumn.
+     Actor Name 1 in row.
+     Sorted in Ascending order.
+     
+     
+     
+    
+  
